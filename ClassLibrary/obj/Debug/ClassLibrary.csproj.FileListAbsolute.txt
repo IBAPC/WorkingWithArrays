@@ -1,0 +1,12 @@
+C:\РПМ\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\РПМ\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\РПМ\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\РПМ\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\РПМ\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\РПМ\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\РПМ\Лабораторная №1\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\РПМ\Лабораторная №1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\РПМ\Лабораторная №1\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\РПМ\Лабораторная №1\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\РПМ\Лабораторная №1\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\РПМ\Лабораторная №1\ClassLibrary\obj\Debug\ClassLibrary.pdb
